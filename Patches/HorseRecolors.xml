@@ -2,21 +2,23 @@
 <Patch>
 
     <Operation Class="PatchOperationReplace">
-        <xpath>Defs/ThingDefs_Races/Races_Animal_CowGroup[defName="Horse"]/alternateGraphicChance</xpath>
+        <xpath>*/PawnKindDef[defName="Horse"]/alternateGraphicChance</xpath>
         <value>
             <alternateGraphicChance>0.66</alternateGraphicChance>
         </value>
     </Operation>
 
     <Operation Class="PatchOperationReplace">
-        <xpath>Defs/ThingDefs_Races/Races_Animal_CowGroup[defName="Horse"]/bodyGraphicData</xpath>
+        <xpath>*/PawnKindDef[defName="Horse"]/*/bodyGraphicData</xpath>
         <value>
-            <bodyGraphicData>bleusRimworldHorses/Textures/images/bleus_horse_bay_none_none</bodyGraphicData>
+            <bodyGraphicData>
+                <texPath>bleusRimworldHorses/Textures/images/bleus_horse_bay_none_none</texPath>
+            </bodyGraphicData>
         </value>
     </Operation>
 
     <Operation Class="PatchOperationReplace">
-        <xpath>Defs/ThingDefs_Races/Races_Animal_CowGroup[defName="Horse"]/alternateGraphics</xpath>
+        <xpath>*/PawnKindDef[defName="Horse"]/alternateGraphics</xpath>
         <value>
             <alternateGraphics>
                 <li><texPath>bleusRimworldHorses/Textures/images/bleus_horse_black_none_none</texPath></li>
