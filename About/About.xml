@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <packageId>Bleuet.BleusHorseRecolors</packageId>
+    <name>Bleu's Horse Recolors</name>
+    <author>Bleuet (Allison)</author>
+    <description>Over 300 recolors for the horses! I also made their body and head shapes nicer.</description>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+
+</ModMetaData>
