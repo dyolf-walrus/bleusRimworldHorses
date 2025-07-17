@@ -21,7 +21,10 @@
         <xpath>*/PawnKindDef[defName="Horse"]/alternateGraphics</xpath>
         <value>
             <alternateGraphics>
-                <li><texPath>images/bleus_horse_black_none_none</texPath></li>
+                <li>
+                    <texPath>images/bleus_horse_black_none_none</texPath>
+                    <weight>100</weight>
+                </li>
                 <li><texPath>images/bleus_horse_black_none_star</texPath></li>
                 <li><texPath>images/bleus_horse_black_none_strip</texPath></li>
                 <li><texPath>images/bleus_horse_black_none_blaze</texPath></li>
