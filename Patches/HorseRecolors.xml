@@ -23,11 +23,20 @@
             <alternateGraphics>
                 <li>
                     <texPath>images/bleus_horse_black_none_none</texPath>
-                    <weight>100</weight>
+                    <weight>40</weight>
                 </li>
-                <li><texPath>images/bleus_horse_black_none_star</texPath></li>
-                <li><texPath>images/bleus_horse_black_none_strip</texPath></li>
-                <li><texPath>images/bleus_horse_black_none_blaze</texPath></li>
+                <li>
+                    <texPath>images/bleus_horse_black_none_star</texPath>
+                    <weight>30</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_black_none_strip</texPath>
+                    <weight>20</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_black_none_blaze</texPath>
+                    <weight>10</weight>
+                </li>
                 <li><texPath>images/bleus_horse_black_tobiano1_none</texPath></li>
                 <li><texPath>images/bleus_horse_black_tobiano1_star</texPath></li>
                 <li><texPath>images/bleus_horse_black_tobiano1_strip</texPath></li>
@@ -61,10 +70,22 @@
                 <li><texPath>images/bleus_horse_black_pintaloosa_star</texPath></li>
                 <li><texPath>images/bleus_horse_black_pintaloosa_strip</texPath></li>
                 <li><texPath>images/bleus_horse_black_medicinehat_none</texPath></li>
-                <li><texPath>images/bleus_horse_bay_none_none</texPath></li>
-                <li><texPath>images/bleus_horse_bay_none_star</texPath></li>
-                <li><texPath>images/bleus_horse_bay_none_strip</texPath></li>
-                <li><texPath>images/bleus_horse_bay_none_blaze</texPath></li>
+                <li>
+                    <texPath>images/bleus_horse_bay_none_none</texPath>
+                    <weight>40</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_bay_none_star</texPath>
+                    <weight>30</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_bay_none_strip</texPath>
+                    <weight>20</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_bay_none_blaze</texPath>
+                    <weight>10</weight>
+                </li>
                 <li><texPath>images/bleus_horse_bay_tobiano1_none</texPath></li>
                 <li><texPath>images/bleus_horse_bay_tobiano1_star</texPath></li>
                 <li><texPath>images/bleus_horse_bay_tobiano1_strip</texPath></li>
@@ -135,10 +156,22 @@
                 <li><texPath>images/bleus_horse_seal_pintaloosa_star</texPath></li>
                 <li><texPath>images/bleus_horse_seal_pintaloosa_strip</texPath></li>
                 <li><texPath>images/bleus_horse_seal_medicinehat_none</texPath></li>
-                <li><texPath>images/bleus_horse_bldbay_none_none</texPath></li>
-                <li><texPath>images/bleus_horse_bldbay_none_star</texPath></li>
-                <li><texPath>images/bleus_horse_bldbay_none_strip</texPath></li>
-                <li><texPath>images/bleus_horse_bldbay_none_blaze</texPath></li>
+                <li>
+                    <texPath>images/bleus_horse_bldbay_none_none</texPath>
+                    <weight>40</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_bldbay_none_star</texPath>
+                    <weight>30</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_bldbay_none_strip</texPath>
+                    <weight>20</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_bldbay_none_blaze</texPath>
+                    <weight>10</weight>
+                </li>
                 <li><texPath>images/bleus_horse_bldbay_tobiano1_none</texPath></li>
                 <li><texPath>images/bleus_horse_bldbay_tobiano1_star</texPath></li>
                 <li><texPath>images/bleus_horse_bldbay_tobiano1_strip</texPath></li>
@@ -171,10 +204,22 @@
                 <li><texPath>images/bleus_horse_bldbay_pintaloosa_none</texPath></li>
                 <li><texPath>images/bleus_horse_bldbay_pintaloosa_star</texPath></li>
                 <li><texPath>images/bleus_horse_bldbay_pintaloosa_strip</texPath></li>
-                <li><texPath>images/bleus_horse_chsnt_none_none</texPath></li>
-                <li><texPath>images/bleus_horse_chsnt_none_star</texPath></li>
-                <li><texPath>images/bleus_horse_chsnt_none_strip</texPath></li>
-                <li><texPath>images/bleus_horse_chsnt_none_blaze</texPath></li>
+                <li>
+                    <texPath>images/bleus_horse_chsnt_none_none</texPath>
+                    <weight>40</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_chsnt_none_star</texPath>
+                    <weight>30</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_chsnt_none_strip</texPath>
+                    <weight>20</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_chsnt_none_blaze</texPath>
+                    <weight>10</weight>
+                </li>
                 <li><texPath>images/bleus_horse_chsnt_tobiano1_none</texPath></li>
                 <li><texPath>images/bleus_horse_chsnt_tobiano1_star</texPath></li>
                 <li><texPath>images/bleus_horse_chsnt_tobiano1_strip</texPath></li>
@@ -357,19 +402,58 @@
                 <li><texPath>images/bleus_horse_cremello_none_none</texPath></li>
                 <li><texPath>images/bleus_horse_perlino_none_none</texPath></li>
                 <li><texPath>images/bleus_horse_smokycrm_none_none</texPath></li>
-                <li><texPath>images/bleus_horse_whtgray_none_none</texPath></li>
-                <li><texPath>images/bleus_horse_whtgray_none_blaze</texPath></li>
-                <li><texPath>images/bleus_horse_fleabitgray_none_none</texPath></li>
-                <li><texPath>images/bleus_horse_fleabitgray_none_blaze</texPath></li>
-                <li><texPath>images/bleus_horse_steelgraydark_none_none</texPath></li>
-                <li><texPath>images/bleus_horse_steelgraydark_none_star</texPath></li>
-                <li><texPath>images/bleus_horse_steelgraydapple_none_none</texPath></li>
-                <li><texPath>images/bleus_horse_steelgraydapple_none_blaze</texPath></li>
-                <li><texPath>images/bleus_horse_steelgraydapple_tobiano2_none</texPath></li>
-                <li><texPath>images/bleus_horse_rosegraydark_none_none</texPath></li>
-                <li><texPath>images/bleus_horse_rosegraydark_none_strip</texPath></li>
-                <li><texPath>images/bleus_horse_rosegraydapple_none_none</texPath></li>
-                <li><texPath>images/bleus_horse_rosegraydapple_none_star</texPath></li>
+                <li>
+                    <texPath>images/bleus_horse_whtgray_none_none</texPath>
+                    <weight>40</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_whtgray_none_blaze</texPath>
+                    <weight>35</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_fleabitgray_none_none</texPath>
+                    <weight>25</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_fleabitgray_none_blaze</texPath>
+                    <weight>20</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_steelgraydark_none_none</texPath>
+                    <weight>15</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_steelgraydark_none_star</texPath>
+                    <weight>12</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_steelgraydapple_none_none</texPath>
+                    <weight>15</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_steelgraydapple_none_blaze</texPath>
+                    <weight>12</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_steelgraydapple_tobiano2_none</texPath>
+                    <weight>5</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_rosegraydark_none_none</texPath>
+                    <weight>15</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_rosegraydark_none_strip</texPath>
+                    <weight>10</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_rosegraydapple_none_none</texPath>
+                    <weight>15</weight>
+                </li>
+                <li>
+                    <texPath>images/bleus_horse_rosegraydapple_none_star</texPath>
+                    <weight>12</weight>
+                </li>
             </alternateGraphics>
         </value>
     </Operation>
